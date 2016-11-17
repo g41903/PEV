@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/PEV/pev_ws/devel
+
+Name: swiftnav_piksi
+Description: Description of swiftnav_piksi
+Version: 0.0.4
+Cflags: -I/home/ubuntu/PEV/pev_ws/src/swiftnav_piksi/include
+Libs: -L/home/ubuntu/PEV/pev_ws/devel/lib -lpiksi -lpiksi_driver
+Requires: diagnostic_updater roscpp sensor_msgs std_srvs

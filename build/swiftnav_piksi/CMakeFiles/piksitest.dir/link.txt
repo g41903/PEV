@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/piksitest.dir/src/piksi.c.o  -o /home/ubuntu/PEV/pev_ws/devel/lib/swiftnav_piksi/piksitest -rdynamic /usr/local/lib/libsbp.so -Wl,-rpath,/usr/local/lib 

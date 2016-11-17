@@ -1,0 +1,6 @@
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/apriltags.dir
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/camtest.dir
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/gltest.dir
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/maketags.dir
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/quadtest.dir
+/home/ubuntu/PEV/pev_ws/build/apriltags/apriltags_swatbotics_EXTERNAL-prefix/src/apriltags_swatbotics_EXTERNAL-build/src/CMakeFiles/tagtest.dir

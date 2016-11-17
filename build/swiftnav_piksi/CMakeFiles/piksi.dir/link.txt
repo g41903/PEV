@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libpiksi.so -o /home/ubuntu/PEV/pev_ws/devel/lib/libpiksi.so CMakeFiles/piksi.dir/src/piksi.c.o /usr/local/lib/libsbp.so -Wl,-rpath,/usr/local/lib 

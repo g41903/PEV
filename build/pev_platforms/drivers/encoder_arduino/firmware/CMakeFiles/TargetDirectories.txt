@@ -1,0 +1,6 @@
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/encoder.dir
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/encoder-size.dir
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/encoder-upload.dir
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/mega2560_CORE.dir
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/mega2560_SPI.dir
+/home/ubuntu/PEV/pev_ws/build/pev_platforms/drivers/encoder_arduino/firmware/CMakeFiles/upload.dir

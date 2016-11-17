@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/PEV/pev_ws/devel
+
+Name: hub_motor_torxis_servo_arduino
+Description: Description of hub_motor_torxis_servo_arduino
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/PEV/pev_ws/devel/lib 
+Requires: 

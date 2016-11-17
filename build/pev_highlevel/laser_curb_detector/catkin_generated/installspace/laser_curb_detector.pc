@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/PEV/pev_ws/install
+
+Name: laser_curb_detector
+Description: Description of laser_curb_detector
+Version: 0.0.0
+Cflags: -I/home/ubuntu/PEV/pev_ws/install/include
+Libs: -L/home/ubuntu/PEV/pev_ws/install/lib 
+Requires: message_runtime

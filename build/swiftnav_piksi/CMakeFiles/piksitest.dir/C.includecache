@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/PEV/pev_ws/src/swiftnav_piksi/include/swiftnav_piksi/piksi.h
+libsbp/sbp.h
+-
+
+/home/ubuntu/PEV/pev_ws/src/swiftnav_piksi/src/piksi.c
+swiftnav_piksi/piksi.h
+/home/ubuntu/PEV/pev_ws/src/swiftnav_piksi/src/swiftnav_piksi/piksi.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+termios.h
+-
+fcntl.h
+-
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libpiksi.so -o CMakeFiles/CMakeRelink.dir/libpiksi.so CMakeFiles/piksi.dir/src/piksi.c.o /usr/local/lib/libsbp.so 
